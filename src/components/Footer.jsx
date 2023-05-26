@@ -8,7 +8,7 @@ function getYear(){
 
 function Footer(){
     return (<div>
-        <footer><p>Copyright {getYear()} </p></footer>
+        <footer><p>Copyright © {getYear()} </p></footer>
     </div>)
 }
 
